@@ -83,45 +83,36 @@ mahasiswa = []  # List untuk menyimpan data mahasiswa
 
 ## Contoh Penggunaan
 
-```python
-# Menambah data mahasiswa
-tambah("Budi", 85)
-tambah("Ani", 90)
+### Menambahkan Data Mahasiswa
 
-# Tampilkan data
-tampilkan()  # Akan menampilkan data Budi dan Ani
+![](gifpic/1.gif)
 
-# Hapus data
-hapus("Budi")
+Fitur ini digunakan untuk menambah data Mahasiswa berupa nama dan nilai.
 
-# Ubah data
-ubah("Ani", "Ani Susanti", 95)
-```
+### Menampilkan Data Mahasiswa
 
-## Kompleksitas Algoritma
+![](gifpic/2.png)
 
-1. **Tambah Data**: O(1)
-   - Operasi konstan, menambah elemen di akhir list
+Fitur ini digunakan untuk menampilkan Data mahasiswa yamg telah tersimpan.
 
-2. **Tampilkan Data**: O(n)
-   - Iterasi seluruh list mahasiswa
+### Hapus Data Mahasiswa
 
-3. **Hapus Data**: O(n)
-   - Membuat list baru dengan filtering
+![](gifpic/3.png)
 
-4. **Ubah Data**: O(n)
-   - Mencari mahasiswa dengan iterasi list
+Fitur ini digunakan untuk menghapus nama mahasiswa yang telah tersimpan dengan cara mengetik nama mahasiswa yang ingin dihapus.
 
-## Batasan dan Catatan
-- Data disimpan hanya selama program berjalan
-- Tidak ada validasi input yang kompleks
-- Nama mahasiswa bersifat unik untuk operasi
+### Ubah Data
 
-## Pengembangan Lanjutan
-- Validasi input
-- Penyimpanan data ke file
-- Fitur sorting dan filtering
-- Antarmuka grafis (GUI)
+![](gifpic/4.png)
+
+Fitur ini digunakan untuk mengubah nama mahasiswa yang telah tersimpan dengan cara mengetik nama mahasiswa yang ingin diubah.
+
+### keluar
+
+![](gifpic/5.png)
+
+Fitur ini digunakan untuk mengakhiri program.
+
 
 ## Persyaratan
 - Python 3.x
@@ -132,3 +123,7 @@ python manajemen_mahasiswa.py
 ```
 
 **Arfianda F. Satritama**
+
+**NIM: 312410377**
+
+**Teknik Informatika UPB**
