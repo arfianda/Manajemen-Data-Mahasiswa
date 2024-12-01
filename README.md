@@ -11,6 +11,10 @@ Aplikasi manajemen data mahasiswa adalah program Python sederhana yang memungkin
 
 ## Algoritma Program
 
+### Flowchart
+
+![](gifpic/flow.png)
+
 ### Struktur Data
 Program menggunakan struktur data `list` untuk menyimpan data mahasiswa, dimana setiap mahasiswa direpresentasikan sebagai `dictionary` dengan dua kunci:
 - `'nama'`: Menyimpan nama mahasiswa
