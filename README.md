@@ -126,6 +126,8 @@ Fitur ini digunakan untuk mengakhiri program.
 python manajemen_mahasiswa.py
 ```
 
+## Author 
+
 **Arfianda F. Satritama**
 
 **NIM: 312410377**
